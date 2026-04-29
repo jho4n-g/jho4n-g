@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jhoan Sebastian Gutierrez Velasco
 
-💻 Fullstack Developer | Backend orientado a APIs
+💻 Fullstack Developer
 
 ---
 ###  &nbsp;Sobre mi
