@@ -64,4 +64,4 @@ Me interesa especialmente:
 
 ## ⚡ Frase
 
-> “No solo construyo aplicaciones, construyo soluciones completas listas para producción.”
+> “Lo único imposible es aquello que no intentas”
